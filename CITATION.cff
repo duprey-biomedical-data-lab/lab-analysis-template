@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use code from this repository, please cite it as below. Once the associated paper is published, cite the paper instead and add its DOI here."
+title: "TODO project title"
+type: software
+authors:
+  - family-names: "TODO your last name"
+    given-names: "TODO your first name"
+    affiliation: "University of Kentucky College of Pharmacy"
+  - family-names: "Duprey"
+    given-names: "TODO PI first name"
+    affiliation: "University of Kentucky College of Pharmacy"
+repository-code: "https://github.com/duprey-biomedical-data-lab/lab-analysis-template"
+license: MIT
